@@ -1,0 +1,8 @@
+name = "pipes.sh"
+description = "Animated pipes terminal screensaver."
+depends = []
+
+[github]
+owner = "pipeseroni"
+repo = "pipes.sh"
+bin = ["pipes.sh"]
