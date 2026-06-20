@@ -5,4 +5,4 @@ depends = []
 [github]
 owner = "pipeseroni"
 repo = "pipes.sh"
-bin = ["pipes.sh"]
+sourcearch = true
