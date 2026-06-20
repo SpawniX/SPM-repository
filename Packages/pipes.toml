@@ -6,3 +6,4 @@ depends = []
 owner = "pipeseroni"
 repo = "pipes.sh"
 sourcearch = true
+boot = ["pipes.sh"]
